@@ -1,0 +1,48 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  # Generate a fresh UUID for this project before first publish (mystmd will
+  # do it automatically on `myst start` if this line is removed).
+  title: CRESCENT Paleoseismology Repository
+  description: Descriptions of paleoseismology data compilations in the CRESCENT CPAL repository and submission instructions
+  keywords:
+    - paleoseismology
+    - Cascadia
+    - CPAL
+    - subduction
+    - coastal deformation
+    - tsunami
+    - turbidite
+
+  toc:
+    # --- Intro / Overview ---
+    - file: index.md
+
+    # --- Data Compilation Descriptions ---
+    - title: Data Compilations
+      children:
+        - file: compilations/coastal_deformation.md
+          title: Coastal Deformation
+        - file: compilations/marine_shaking.md
+          title: Marine Shaking
+        - file: compilations/terrestrial_shaking.md
+          title: Terrestrial Shaking
+        - file: compilations/tsunami.md
+          title: Tsunami
+
+    # --- Submission Instructions ---
+    - title: Submission Instructions
+      children:
+        - file: submission.md
+
+site:
+  template: book-theme
+  options:
+    favicon: crescent_circle.png
+    logo: Crescent_logo.png
+    style: _overrides/custom.css
+
+html:
+  theme:
+    options:
+      collapse_navigation: false
