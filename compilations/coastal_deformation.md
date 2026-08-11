@@ -23,4 +23,4 @@ _To be provided by the compilation authors._
 
 ## Source Data
 
-Download: <a href="https://github.com/cascadiaquakes/CRESCENT-CPAL/blob/main/data/geojson/Coastal_Deformation_Data_Compilation_TLDR.geojson" target="_blank">Coastal_Deformation_Data_Compilation_TLDR.geojson</a>
+Download: <a href="https://github.com/cascadiaquakes/CRESCENT-CPAL/blob/main/data/geojson/Coastal_Deformation_Data_Compilation_Condensed.geojson" target="_blank">Coastal_Deformation_Data_Compilation_Condensed.geojson</a>
