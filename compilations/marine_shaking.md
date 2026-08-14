@@ -4,7 +4,7 @@
 
 :::{admonition} Placeholder page
 :class: warning
-This is a starter page. The compilation authors and Amanda will populate the abstract, figure, methodology, and record inventory.
+This is a starter page and will be populated with the abstract, figure, methodology, and record inventory later.
 :::
 
 ## Abstract
