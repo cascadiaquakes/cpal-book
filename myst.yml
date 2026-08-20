@@ -19,7 +19,8 @@ project:
     - file: index.md
 
     # --- Data Compilation Descriptions ---
-    - title: Data Compilations
+    - file: compilations/index.md
+      title: Data Compilations
       children:
         - file: compilations/coastal_deformation.md
           title: Coastal Deformation
