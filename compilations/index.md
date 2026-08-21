@@ -43,15 +43,8 @@ ranking schemes:
 
 ## In the CPAL Viewer
 
-The viewer surfaces the compilation as four record-type layers, each
-downloadable in a condensed GeoJSON form:
-
-- {doc}`Coastal Deformation <coastal_deformation>`
-- {doc}`Marine Shaking <marine_shaking>`
-- {doc}`Terrestrial Shaking <terrestrial_shaking>`
-- {doc}`Tsunami <tsunami>`
-
-The per-record-type pages summarize the layer as delivered by the viewer.
-For the full compilation metadata, age/evidence ranking definitions, and
-the underlying source publications, always refer to the USGS ScienceBase
-entry linked above.
+The CPAL Viewer surfaces this compilation as four record-type layers
+(coastal deformation, marine shaking, terrestrial shaking, tsunami),
+each downloadable in a condensed GeoJSON form. For the full compilation
+metadata, age/evidence ranking definitions, and the underlying source
+publications, always refer to the USGS ScienceBase entry linked above.

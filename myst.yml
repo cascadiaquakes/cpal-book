@@ -21,15 +21,6 @@ project:
     # --- Data Compilation Descriptions ---
     - file: compilations/index.md
       title: Data Compilations
-      children:
-        - file: compilations/coastal_deformation.md
-          title: Coastal Deformation
-        - file: compilations/marine_shaking.md
-          title: Marine Shaking
-        - file: compilations/terrestrial_shaking.md
-          title: Terrestrial Shaking
-        - file: compilations/tsunami.md
-          title: Tsunami
 
     # --- Submission Instructions ---
     - title: Submission Instructions
