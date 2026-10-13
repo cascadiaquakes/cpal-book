@@ -5,6 +5,7 @@
 Documentation for the paleoseismology data compilations included in the CRESCENT CPAL viewer, and instructions for submitting new compilations.
 
 **Read the book:** https://cascadiaquakes.github.io/cpal-book/
+
 **Viewer:** https://cpal.cascadiaquakes.org
 
 ---
